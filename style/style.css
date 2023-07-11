@@ -58,13 +58,18 @@ color: rgba(39, 39, 39, 0.6)}
 
 .flower-but{  
 
-padding: 20px 43px 20px 43px;
+padding:  20px 43px 20px 43px;
+
 border-radius: 8px;
+ 
 background: #E55473;
+
+color: aliceblue;
 border: none;
 
 
 }
+
 
 .feature{ 
 
@@ -220,10 +225,150 @@ text-align: center;
 
 }
 
+.box{ 
+
+
+display: flex;
+
+
+justify-content: space-around;
+
+align-items: center;
+
+
+width: 1922px;
+height: 620px;
+
+
+background-color:rgba(229, 84, 115, 0.05);
+ }
+
+
+.sub-box{ text-align: center;
+
+
+}
+
+
+
+.image1{   width: 200.px;}
+
+
+.instagram{  
+text-align: center;
+
+margin-top: 130px; 
+ }
+
+
+.image6{    
+display: flex;
+
+}
+
+.image4{  width: 200px;
+
+
+}
+
+
+
+.image2{ 
+
+padding: 5px;
+
+}
+
+
+.image6{
+
+margin-left: 500px;
+
+
+
+}
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.end-top{    
+text-align: center;
+
+ background-image:url(../image/Rectangle\ 9.png) ;
+
+ }
+
+
+::placeholder{font-family: 'lato'; }
+
+
+
+
+
+
+
+
+.end-all{ 
+
+text-align: center;
+
+
+
+}
+
+
+.manik{font-family:'lato'
+
+
+
+
+}
+
+
+
+
+
+.jace{color:#E55473; }
+
+
+
+.jace1{  color: white;  }
+
+
+.end-all{ background: #111010;
+
+
+
+  }
+
+
+.vumi{ 
+color: rgba(255, 255, 255, 0.90); 
+
+
+
+}
+
+
+.mui{   
+
+
+}
 
 
 
