@@ -1,0 +1,87 @@
+.flower-super-top{ display: flex;
+
+justify-content: space-around;
+
+
+align-items: center;
+
+background: rgba(229, 84,115,0.10 );
+
+
+}
+
+.flower-section{  
+  
+
+  color: #272727;
+  
+  font-size: 50px;
+
+  font-weight: 700;
+
+  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+
+  flex-direction: column;
+
+  flex-shrink: 0;
+
+}
+
+.flower-top{    
+  margin-top: 140px;
+
+margin-left: 200px;
+
+}
+
+.flower{ 
+
+margin-top: 50px;
+  width: 635px;
+  height: 800px;
+  flex-shrink: 0;
+
+}
+.flower-but{   
+
+margin-bottom: 120px;
+
+}
+
+
+
+.flower-room{
+
+color: rgba(39, 39, 39, 0.6)}
+
+
+.flower-but{  
+
+padding: 20px 43px 20px 43px;
+border-radius: 8px;
+background: #E55473;
+border: none;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
